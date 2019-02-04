@@ -1,11 +1,11 @@
 # BitcoinTicker
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Bitcoin Ticker App
+This app is part of a Udemy course by Angela Yu.</br> 
+Course link: https://www.udemy.com/ios-12-app-development-bootcamp/
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
+## Description
+This app shows you the current Bitcoin price by using an API call to: https://bitcoinaverage.com
 
-Pro: Git clone to your Xcode projects folder.
-
-## Finished App
+## App Demo
 ![Finished App](http://i.giphy.com/l0HlQGzz2MQCKIBI4.gif)
 
 Copyright © The App Brewery
